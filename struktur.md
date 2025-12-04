@@ -20,3 +20,8 @@ Monitoring CPU, RAM, Disk, SMART HDD, Log, Network, dan Container.
 ```
 https://192.168.20.97:9090/
 ```
+# 4. CUPS
+Sharing printer via samba
+```
+http://192.168.20.97:631/
+```

@@ -15,3 +15,8 @@
 ```
 \\mdt-share
 ```
+# 3. Cockpit
+Monitoring CPU, RAM, Disk, SMART HDD, Log, Network, dan Container.
+```
+https://192.168.20.97:9090/
+```

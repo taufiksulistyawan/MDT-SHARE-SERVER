@@ -25,3 +25,14 @@ Sharing printer via samba
 ```
 http://192.168.20.97:631/
 ```
+# 5. Akses
+CTP
+```
+userec
+@ec$1234
+```
+Editor
+```
+useredt
+@ec$1234
+```

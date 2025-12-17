@@ -4,7 +4,7 @@
  └─ Ubuntu Server + Samba + CUPS + Cloudflare + MinIO (opsional)
 
 [HDD]
- ├─ /mnt/share/CTP
+ ├─ /mnt/share/ctp
  ├─ /mnt/share/admin
  └─ /mnt/share/quarantine   # untuk antivirus
 ```

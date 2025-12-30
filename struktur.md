@@ -36,3 +36,10 @@ Editor
 useredt
 @ec$1234
 ```
+# 5. Scan
+```
+clamscan -r /mnt/share/ctp --move=/mnt/share/quarantine
+```
+```
+clamscan -r /mnt/share/editor --move=/mnt/share/quarantine
+```

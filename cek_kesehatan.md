@@ -20,6 +20,5 @@ smartctl -A /dev/nvme0n1
 4. HARDISK
 ```
 smartctl -H /dev/sda
-```
 smartctl -A /dev/sda
 ```

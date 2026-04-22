@@ -14,8 +14,8 @@ lsblk
 3. SSD
 ```
 smartctl -H /dev/nvme0n1
-```
 smartctl -A /dev/nvme0n1
+```
 
 4. HARDISK
 ```
